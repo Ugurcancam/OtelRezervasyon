@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\OtelRezervasyon\\ApiConsume\\OtelRezervasyon.Api\\OtelRezervasyon.Api.csproj": {}
+    "c:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\OtelRezervasyon\\ApiConsume\\OtelRezervasyon.Api\\OtelRezervasyon.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\OtelRezervasyon\\ApiConsume\\OtelRezervasyon.Api\\OtelRezervasyon.Api.csproj": {
+    "c:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\OtelRezervasyon\\ApiConsume\\OtelRezervasyon.Api\\OtelRezervasyon.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\OtelRezervasyon\\ApiConsume\\OtelRezervasyon.Api\\OtelRezervasyon.Api.csproj",
+        "projectUniqueName": "c:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\OtelRezervasyon\\ApiConsume\\OtelRezervasyon.Api\\OtelRezervasyon.Api.csproj",
         "projectName": "OtelRezervasyon.Api",
-        "projectPath": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\OtelRezervasyon\\ApiConsume\\OtelRezervasyon.Api\\OtelRezervasyon.Api.csproj",
+        "projectPath": "c:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\OtelRezervasyon\\ApiConsume\\OtelRezervasyon.Api\\OtelRezervasyon.Api.csproj",
         "packagesPath": "C:\\Users\\ugurc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\OtelRezervasyon\\ApiConsume\\OtelRezervasyon.Api\\obj\\",
+        "outputPath": "c:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\OtelRezervasyon\\ApiConsume\\OtelRezervasyon.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -25,8 +25,6 @@
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -48,6 +46,24 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[7.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[7.0.8, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

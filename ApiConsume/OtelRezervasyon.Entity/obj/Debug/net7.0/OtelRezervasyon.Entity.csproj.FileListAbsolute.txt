@@ -1,0 +1,14 @@
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\ApiConsume\OtelRezervasyon.Entity\bin\Debug\net7.0\OtelRezervasyon.Entity.deps.json
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\ApiConsume\OtelRezervasyon.Entity\bin\Debug\net7.0\OtelRezervasyon.Entity.runtimeconfig.json
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\ApiConsume\OtelRezervasyon.Entity\bin\Debug\net7.0\OtelRezervasyon.Entity.dll
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\ApiConsume\OtelRezervasyon.Entity\bin\Debug\net7.0\OtelRezervasyon.Entity.pdb
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\ApiConsume\OtelRezervasyon.Entity\obj\Debug\net7.0\OtelRezervasyon.Entity.csproj.AssemblyReference.cache
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\ApiConsume\OtelRezervasyon.Entity\obj\Debug\net7.0\OtelRezervasyon.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\ApiConsume\OtelRezervasyon.Entity\obj\Debug\net7.0\OtelRezervasyon.Entity.AssemblyInfoInputs.cache
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\ApiConsume\OtelRezervasyon.Entity\obj\Debug\net7.0\OtelRezervasyon.Entity.AssemblyInfo.cs
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\ApiConsume\OtelRezervasyon.Entity\obj\Debug\net7.0\OtelRezervasyon.Entity.csproj.CoreCompileInputs.cache
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\ApiConsume\OtelRezervasyon.Entity\obj\Debug\net7.0\OtelRezervasyon.Entity.dll
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\ApiConsume\OtelRezervasyon.Entity\obj\Debug\net7.0\refint\OtelRezervasyon.Entity.dll
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\ApiConsume\OtelRezervasyon.Entity\obj\Debug\net7.0\OtelRezervasyon.Entity.pdb
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\ApiConsume\OtelRezervasyon.Entity\obj\Debug\net7.0\OtelRezervasyon.Entity.genruntimeconfig.cache
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\ApiConsume\OtelRezervasyon.Entity\obj\Debug\net7.0\ref\OtelRezervasyon.Entity.dll
