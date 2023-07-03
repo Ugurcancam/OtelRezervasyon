@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using OtelRezervasyon.Business.Abstract;
+using OtelRezervasyon.Entity.Concrete;
 
 namespace OtelRezervasyon.Api.Controllers
 {
@@ -25,24 +26,29 @@ namespace OtelRezervasyon.Api.Controllers
             return Ok(values);
         }
         [HttpPost]
-        public IActionResult AddStaff()
+        public IActionResult AddStaff(Staff staff)
         {
+            _staffService.BInsert(staff);
             return Ok();
         }
         [HttpDelete]
-        public IActionResult DeleteStaff()
+        public IActionResult DeleteStaff(int id)
         {
+            var values = _staffService.BGetById(id);
+            _staffService.BDelete(values);
             return Ok();
         }
         [HttpPut]
-        public IActionResult UpdateStaff()
+        public IActionResult UpdateStaff(Staff staff)
         {
+            _staffService.BUpdate(staff);
             return Ok();
         }
         [HttpGet("{id}")]
-        public IActionResult GetStaff()
+        public IActionResult GetStaff(int id)
         {
-            return Ok();
+            var values = _staffService.BGetById(id);
+            return Ok(values);
         }        
     }
 }

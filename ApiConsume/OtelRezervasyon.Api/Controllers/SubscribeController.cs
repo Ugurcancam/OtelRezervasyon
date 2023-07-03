@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
+using OtelRezervasyon.Business.Abstract;
+using OtelRezervasyon.Entity.Concrete;
 
 namespace OtelRezervasyon.Api.Controllers
 {
@@ -10,30 +12,43 @@ namespace OtelRezervasyon.Api.Controllers
     [Route("api/[controller]")]
     public class SubscribeController : ControllerBase
     {
+        private readonly ISubscribeService _subscribeService;
+
+        public SubscribeController(ISubscribeService subscribeService)
+        {
+            _subscribeService = subscribeService;
+        }
+
         [HttpGet]
         public IActionResult ListSubscribe()
         {
-            return Ok();
+            var values = _subscribeService.BGetList();
+            return Ok(values);
         }
         [HttpPost]
-        public IActionResult AddSubscribe()
+        public IActionResult AddSubscribe(Subscribe subscribe)
         {
+            _subscribeService.BInsert(subscribe);
             return Ok();
         }
         [HttpDelete]
-        public IActionResult DeleteSubscribe()
+        public IActionResult DeleteSubscribe(int id)
         {
+            var values = _subscribeService.BGetById(id);
+            _subscribeService.BDelete(values);
             return Ok();
         }
         [HttpPut]
-        public IActionResult UpdateSubscribe()
+        public IActionResult UpdateSubscribe(Subscribe subscribe)
         {
+            _subscribeService.BUpdate(subscribe);
             return Ok();
         }
         [HttpGet("{id}")]
-        public IActionResult GetSubscribe()
+        public IActionResult GetSubscribe(int id)
         {
-            return Ok();
+            var values = _subscribeService.BGetById(id);
+            return Ok(values);
         }
     }
 }
