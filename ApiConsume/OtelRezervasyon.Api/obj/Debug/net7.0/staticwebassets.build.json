@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZPTO7g2pWy1rGPH0oBvXG1vtxrFV3JSfMfXH+DE1PE0=",
+  "Source": "OtelRezervasyon.Api",
+  "BasePath": "_content/OtelRezervasyon.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

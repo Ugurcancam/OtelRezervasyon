@@ -1,0 +1,17 @@
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\ApiConsume\OtelRezervasyon.Dto\bin\Debug\net7.0\OtelRezervasyon.Dto.deps.json
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\ApiConsume\OtelRezervasyon.Dto\bin\Debug\net7.0\OtelRezervasyon.Dto.runtimeconfig.json
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\ApiConsume\OtelRezervasyon.Dto\bin\Debug\net7.0\OtelRezervasyon.Dto.dll
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\ApiConsume\OtelRezervasyon.Dto\bin\Debug\net7.0\OtelRezervasyon.Dto.pdb
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\ApiConsume\OtelRezervasyon.Dto\bin\Debug\net7.0\OtelRezervasyon.Entity.dll
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\ApiConsume\OtelRezervasyon.Dto\bin\Debug\net7.0\OtelRezervasyon.Entity.pdb
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\ApiConsume\OtelRezervasyon.Dto\obj\Debug\net7.0\OtelRezervasyon.Dto.csproj.AssemblyReference.cache
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\ApiConsume\OtelRezervasyon.Dto\obj\Debug\net7.0\OtelRezervasyon.Dto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\ApiConsume\OtelRezervasyon.Dto\obj\Debug\net7.0\OtelRezervasyon.Dto.AssemblyInfoInputs.cache
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\ApiConsume\OtelRezervasyon.Dto\obj\Debug\net7.0\OtelRezervasyon.Dto.AssemblyInfo.cs
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\ApiConsume\OtelRezervasyon.Dto\obj\Debug\net7.0\OtelRezervasyon.Dto.csproj.CoreCompileInputs.cache
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\ApiConsume\OtelRezervasyon.Dto\obj\Debug\net7.0\OtelRezervasyon.Dto.csproj.CopyComplete
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\ApiConsume\OtelRezervasyon.Dto\obj\Debug\net7.0\OtelRezervasyon.Dto.dll
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\ApiConsume\OtelRezervasyon.Dto\obj\Debug\net7.0\refint\OtelRezervasyon.Dto.dll
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\ApiConsume\OtelRezervasyon.Dto\obj\Debug\net7.0\OtelRezervasyon.Dto.pdb
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\ApiConsume\OtelRezervasyon.Dto\obj\Debug\net7.0\OtelRezervasyon.Dto.genruntimeconfig.cache
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\ApiConsume\OtelRezervasyon.Dto\obj\Debug\net7.0\ref\OtelRezervasyon.Dto.dll
