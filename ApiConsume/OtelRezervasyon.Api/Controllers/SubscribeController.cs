@@ -10,7 +10,7 @@ namespace OtelRezervasyon.Api.Controllers
     [Route("api/[controller]")]
     public class SubscribeController : ControllerBase
     {
-                [HttpGet]
+        [HttpGet]
         public IActionResult ListSubscribe()
         {
             return Ok();

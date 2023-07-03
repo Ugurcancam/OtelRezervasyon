@@ -1,5 +1,15 @@
+using OtelRezervasyon.Data.Abstract;
+using OtelRezervasyon.Data.Concrete;
+using OtelRezervasyon.Data.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
+//API Services
+
+builder.Services.AddDbContext<Context>();
+
+builder.Services.AddScoped<IStaffDal, EfCoreStaffDal>();
+builder.Services.AddScoped<IRoomDal, EfCoreRoomDal>();
 // Add services to the container.
 
 builder.Services.AddControllers();
