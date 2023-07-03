@@ -18660,6 +18660,16 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\OtelRezervasyon\\Frontend\\OtelRezervasyon.webui\\Views\\Shared\\_AdminHeader.cshtml",
+      "TargetPath": "Views\\Shared\\_AdminHeader.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\OtelRezervasyon\\Frontend\\OtelRezervasyon.webui\\Views\\Shared\\_AdminFooter.cshtml",
+      "TargetPath": "Views\\Shared\\_AdminFooter.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\OtelRezervasyon\\Frontend\\OtelRezervasyon.webui\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
@@ -18670,8 +18680,28 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\OtelRezervasyon\\Frontend\\OtelRezervasyon.webui\\Views\\Shared\\_AdminLayout.cshtml",
+      "TargetPath": "Views\\Shared\\_AdminLayout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\OtelRezervasyon\\Frontend\\OtelRezervasyon.webui\\Views\\Shared\\_AdminNavheader.cshtml",
+      "TargetPath": "Views\\Shared\\_AdminNavheader.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\OtelRezervasyon\\Frontend\\OtelRezervasyon.webui\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\OtelRezervasyon\\Frontend\\OtelRezervasyon.webui\\Views\\Shared\\_AdminSidebar.cshtml",
+      "TargetPath": "Views\\Shared\\_AdminSidebar.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\OtelRezervasyon\\Frontend\\OtelRezervasyon.webui\\Views\\Admin\\Index.cshtml",
+      "TargetPath": "Views\\Admin\\Index.cshtml",
       "FileKind": "mvc"
     },
     {
