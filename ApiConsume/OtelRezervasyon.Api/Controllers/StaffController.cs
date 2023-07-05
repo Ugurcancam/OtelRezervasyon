@@ -31,7 +31,7 @@ namespace OtelRezervasyon.Api.Controllers
             _staffService.BInsert(staff);
             return Ok();
         }
-        [HttpDelete]
+        [HttpDelete("{id}")]
         public IActionResult DeleteStaff(int id)
         {
             var values = _staffService.BGetById(id);

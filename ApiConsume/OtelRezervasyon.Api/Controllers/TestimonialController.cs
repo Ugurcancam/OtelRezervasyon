@@ -30,7 +30,7 @@ namespace OtelRezervasyon.Api.Controllers
             _testimonialService.BInsert(testimonial);
             return Ok();
         }
-        [HttpDelete]
+        [HttpDelete("{id}")]
         public IActionResult DeleteTestimonial(int id)
         {
             var values = _testimonialService.BGetById(id);

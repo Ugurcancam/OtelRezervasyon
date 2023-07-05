@@ -82,3 +82,4 @@ C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\ApiConsume\OtelRezervasy
 C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\ApiConsume\OtelRezervasyon.Api\obj\Debug\net7.0\OtelRezervasyon.Api.pdb
 C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\ApiConsume\OtelRezervasyon.Api\obj\Debug\net7.0\OtelRezervasyon.Api.genruntimeconfig.cache
 C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\ApiConsume\OtelRezervasyon.Api\obj\Debug\net7.0\ref\OtelRezervasyon.Api.dll
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\ApiConsume\OtelRezervasyon.Api\bin\Debug\net7.0\Newtonsoft.Json.dll

@@ -7,6 +7,9 @@ using OtelRezervasyon.Data.EntityFrameworkCore;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
+
+
+
 builder.Services.AddDbContext<Context>();
 
 builder.Services.AddScoped<IStaffDal, EfCoreStaffDal>();
@@ -24,10 +27,19 @@ builder.Services.AddScoped<ITestimonialService,TestimonialManager>();
 builder.Services.AddScoped<IServiceDal, EfCoreServiceDal>();
 builder.Services.AddScoped<IServiceService,ServiceManager>();
 
+builder.Services.AddCors(opt=>
+{
+    opt.AddPolicy("OtelRezervCors",opts=>
+    {
+        opts.AllowAnyOrigin().AllowAnyHeader().AllowAnyOrigin();
+    });
+});
+
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
 
 var app = builder.Build();
 
@@ -37,6 +49,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+app.UseCors("OtelRezervCors");
 
 app.UseHttpsRedirection();
 

@@ -73,3 +73,4 @@ C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\Frontend\OtelRezervasyon
 C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\Frontend\OtelRezervasyon.webui\obj\Debug\net7.0\OtelRezervasyon.webui.pdb
 C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\Frontend\OtelRezervasyon.webui\obj\Debug\net7.0\OtelRezervasyon.webui.genruntimeconfig.cache
 C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\Frontend\OtelRezervasyon.webui\obj\Debug\net7.0\ref\OtelRezervasyon.webui.dll
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\Frontend\OtelRezervasyon.webui\bin\Debug\net7.0\Newtonsoft.Json.dll
