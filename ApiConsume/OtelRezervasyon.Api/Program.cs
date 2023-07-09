@@ -1,3 +1,4 @@
+using OtelRezervasyon.Api.Mapping;
 using OtelRezervasyon.Business.Abstract;
 using OtelRezervasyon.Business.Concrete;
 using OtelRezervasyon.Data.Abstract;
@@ -26,6 +27,8 @@ builder.Services.AddScoped<ITestimonialService,TestimonialManager>();
 
 builder.Services.AddScoped<IServiceDal, EfCoreServiceDal>();
 builder.Services.AddScoped<IServiceService,ServiceManager>();
+
+builder.Services.AddAutoMapper(typeof(MapProfile));
 
 builder.Services.AddCors(opt=>
 {
