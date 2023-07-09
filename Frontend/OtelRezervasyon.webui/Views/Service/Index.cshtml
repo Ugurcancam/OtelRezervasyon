@@ -1,0 +1,24 @@
+@model List<ListServiceDto>
+
+@{
+    Layout = "_AdminLayout";
+}
+
+<table class="table table-bordered">
+    <tr>
+        <th>#</th>
+        <th>Hizmet Başlığı</th>
+        <th>Sil</th>
+        <th>Güncelle</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Id</td>
+            <td>@item.Title</td>
+            <td><a asp-controller="Service" asp-action="DeleteService" asp-route-id="@item.Id" class="btn  mb-1 btn-rounded btn-outline-danger">Sil</a></td>
+            <td><a asp-controller="Service" asp-action="UpdateService" asp-route-id="@item.Id" class="btn mb-1 btn-rounded btn-outline-success">Güncelle</a></td>
+        </tr>
+    }
+</table>
+<a asp-controller="Service" asp-action="AddService" class="btn mb-1 btn-rounded btn-outline-info"> Yeni Hizmet</a>

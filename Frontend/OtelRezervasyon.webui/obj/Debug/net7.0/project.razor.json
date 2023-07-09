@@ -1,6 +1,6 @@
 {
-  "SerializedFilePath": "c:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\OtelRezervasyon\\ApiConsume\\OtelRezervasyon.Api\\obj\\Debug\\net7.0\\project.razor.json",
-  "FilePath": "c:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\OtelRezervasyon\\ApiConsume\\OtelRezervasyon.Api\\OtelRezervasyon.Api.csproj",
+  "SerializedFilePath": "c:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\OtelRezervasyon\\Frontend\\OtelRezervasyon.webui\\obj\\Debug\\net7.0\\project.razor.json",
+  "FilePath": "c:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\OtelRezervasyon\\Frontend\\OtelRezervasyon.webui\\OtelRezervasyon.webui.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "7.0",
@@ -18642,7 +18642,108 @@
     ],
     "CSharpLanguageVersion": 1100
   },
-  "RootNamespace": "OtelRezervasyon.Api",
-  "Documents": [],
+  "RootNamespace": "OtelRezervasyon.webui",
+  "Documents": [
+    {
+      "FilePath": "c:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\OtelRezervasyon\\Frontend\\OtelRezervasyon.webui\\Views\\Shared\\_AdminSidebar.cshtml",
+      "TargetPath": "Views\\Shared\\_AdminSidebar.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\OtelRezervasyon\\Frontend\\OtelRezervasyon.webui\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\OtelRezervasyon\\Frontend\\OtelRezervasyon.webui\\Views\\Shared\\_AdminNavheader.cshtml",
+      "TargetPath": "Views\\Shared\\_AdminNavheader.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\OtelRezervasyon\\Frontend\\OtelRezervasyon.webui\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\OtelRezervasyon\\Frontend\\OtelRezervasyon.webui\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\OtelRezervasyon\\Frontend\\OtelRezervasyon.webui\\Views\\Shared\\_AdminLayout.cshtml",
+      "TargetPath": "Views\\Shared\\_AdminLayout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\OtelRezervasyon\\Frontend\\OtelRezervasyon.webui\\Views\\Service\\AddService.cshtml",
+      "TargetPath": "Views\\Service\\AddService.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\OtelRezervasyon\\Frontend\\OtelRezervasyon.webui\\Views\\Testimonial\\Index.cshtml",
+      "TargetPath": "Views\\Testimonial\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\OtelRezervasyon\\Frontend\\OtelRezervasyon.webui\\Views\\Shared\\_AdminHeader.cshtml",
+      "TargetPath": "Views\\Shared\\_AdminHeader.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\OtelRezervasyon\\Frontend\\OtelRezervasyon.webui\\Views\\Service\\Index.cshtml",
+      "TargetPath": "Views\\Service\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\OtelRezervasyon\\Frontend\\OtelRezervasyon.webui\\Views\\Shared\\_AdminFooter.cshtml",
+      "TargetPath": "Views\\Shared\\_AdminFooter.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\OtelRezervasyon\\Frontend\\OtelRezervasyon.webui\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\OtelRezervasyon\\Frontend\\OtelRezervasyon.webui\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\OtelRezervasyon\\Frontend\\OtelRezervasyon.webui\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\OtelRezervasyon\\Frontend\\OtelRezervasyon.webui\\Views\\Staff\\Index.cshtml",
+      "TargetPath": "Views\\Staff\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\OtelRezervasyon\\Frontend\\OtelRezervasyon.webui\\Views\\Service\\UpdateService.cshtml",
+      "TargetPath": "Views\\Service\\UpdateService.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\OtelRezervasyon\\Frontend\\OtelRezervasyon.webui\\Views\\Staff\\AddStaff.cshtml",
+      "TargetPath": "Views\\Staff\\AddStaff.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\OtelRezervasyon\\Frontend\\OtelRezervasyon.webui\\Views\\Admin\\Index.cshtml",
+      "TargetPath": "Views\\Admin\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\OtelRezervasyon\\Frontend\\OtelRezervasyon.webui\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\OtelRezervasyon\\Frontend\\OtelRezervasyon.webui\\Views\\Staff\\UpdateStaff.cshtml",
+      "TargetPath": "Views\\Staff\\UpdateStaff.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
   "SerializationFormat": "0.3"
 }

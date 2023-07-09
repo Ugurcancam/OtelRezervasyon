@@ -28,7 +28,7 @@ namespace OtelRezervasyon.Api.Controllers
             _serviceService.BInsert(service);
             return Ok();
         }
-        [HttpDelete]
+        [HttpDelete("{id}")]
         public IActionResult DeleteService(int id)
         {
             var values = _serviceService.BGetById(id);
