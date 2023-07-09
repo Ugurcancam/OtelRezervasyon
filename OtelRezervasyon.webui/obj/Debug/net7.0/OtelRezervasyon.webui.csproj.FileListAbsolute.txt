@@ -74,3 +74,14 @@ C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\Frontend\OtelRezervasyon
 C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\Frontend\OtelRezervasyon.webui\obj\Debug\net7.0\OtelRezervasyon.webui.genruntimeconfig.cache
 C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\Frontend\OtelRezervasyon.webui\obj\Debug\net7.0\ref\OtelRezervasyon.webui.dll
 C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\Frontend\OtelRezervasyon.webui\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\OtelRezervasyon.webui\obj\Debug\net7.0\OtelRezervasyon.webui.csproj.AssemblyReference.cache
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\OtelRezervasyon.webui\obj\Debug\net7.0\OtelRezervasyon.webui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\OtelRezervasyon.webui\obj\Debug\net7.0\OtelRezervasyon.webui.AssemblyInfoInputs.cache
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\OtelRezervasyon.webui\obj\Debug\net7.0\OtelRezervasyon.webui.AssemblyInfo.cs
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\OtelRezervasyon.webui\obj\Debug\net7.0\OtelRezervasyon.webui.csproj.CoreCompileInputs.cache
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\OtelRezervasyon.webui\obj\Debug\net7.0\OtelRezervasyon.webui.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\OtelRezervasyon.webui\obj\Debug\net7.0\OtelRezervasyon.webui.RazorAssemblyInfo.cache
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\OtelRezervasyon.webui\obj\Debug\net7.0\OtelRezervasyon.webui.RazorAssemblyInfo.cs
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\OtelRezervasyon.webui\obj\Debug\net7.0\OtelRezervasyon.webui.dll
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\OtelRezervasyon.webui\obj\Debug\net7.0\refint\OtelRezervasyon.webui.dll
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\OtelRezervasyon.webui\obj\Debug\net7.0\OtelRezervasyon.webui.pdb
