@@ -1,3 +1,5 @@
+using OtelRezervasyon.Data.Concrete;
+using OtelRezervasyon.Entity.Concrete;
 using OtelRezervasyon.webui.Mapping;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -6,6 +8,8 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddHttpClient();
 builder.Services.AddControllersWithViews();
 builder.Services.AddAutoMapper(typeof(MapProfile));
+builder.Services.AddDbContext<Context>();
+builder.Services.AddIdentity<AppUser,AppRole>().AddEntityFrameworkStores<Context>();
 
 var app = builder.Build();
 

@@ -89,3 +89,11 @@ C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\Frontend\OtelRezervasyon
 C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\Frontend\OtelRezervasyon.webui\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\Frontend\OtelRezervasyon.webui\bin\Debug\net7.0\OtelRezervasyon.Entity.dll
 C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\Frontend\OtelRezervasyon.webui\bin\Debug\net7.0\OtelRezervasyon.Entity.pdb
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\Frontend\OtelRezervasyon.webui\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\Frontend\OtelRezervasyon.webui\bin\Debug\net7.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\Frontend\OtelRezervasyon.webui\bin\Debug\net7.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\Frontend\OtelRezervasyon.webui\bin\Debug\net7.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\Frontend\OtelRezervasyon.webui\bin\Debug\net7.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\Frontend\OtelRezervasyon.webui\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\Frontend\OtelRezervasyon.webui\bin\Debug\net7.0\OtelRezervasyon.Data.dll
+C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\Frontend\OtelRezervasyon.webui\bin\Debug\net7.0\OtelRezervasyon.Data.pdb

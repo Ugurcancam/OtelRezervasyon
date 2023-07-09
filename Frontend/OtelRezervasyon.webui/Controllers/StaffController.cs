@@ -89,7 +89,6 @@ namespace OtelRezervasyon.webui.Controllers
                 return RedirectToAction("Index");
             }
             return View();            
-
         }
 
     }
