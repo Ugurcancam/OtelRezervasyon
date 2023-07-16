@@ -28,6 +28,9 @@ builder.Services.AddScoped<ITestimonialService,TestimonialManager>();
 builder.Services.AddScoped<IServiceDal, EfCoreServiceDal>();
 builder.Services.AddScoped<IServiceService,ServiceManager>();
 
+builder.Services.AddScoped<IAboutDal, EfCoreAboutDal>();
+builder.Services.AddScoped<IAboutService,AboutManager>();
+
 builder.Services.AddAutoMapper(typeof(MapProfile));
 
 builder.Services.AddCors(opt=>

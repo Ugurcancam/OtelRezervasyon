@@ -21,6 +21,7 @@ namespace OtelRezervasyon.webui.Mapping
             CreateMap<AddServiceDto, Service>().ReverseMap();
             CreateMap<NewUserDto, AppUser>().ReverseMap();
             CreateMap<LoginUserDto, AppUser>().ReverseMap();
+
         }
     }
 }
