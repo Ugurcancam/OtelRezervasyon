@@ -12,3 +12,17 @@ C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\ApiConsume\OtelRezervasy
 C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\ApiConsume\OtelRezervasyon.Entity\obj\Debug\net7.0\OtelRezervasyon.Entity.pdb
 C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\ApiConsume\OtelRezervasyon.Entity\obj\Debug\net7.0\OtelRezervasyon.Entity.genruntimeconfig.cache
 C:\Users\ugurc\OneDrive\Belgeler\GitHub\OtelRezervasyon\ApiConsume\OtelRezervasyon.Entity\obj\Debug\net7.0\ref\OtelRezervasyon.Entity.dll
+D:\Github\OtelRezervasyon\ApiConsume\OtelRezervasyon.Entity\bin\Debug\net7.0\OtelRezervasyon.Entity.deps.json
+D:\Github\OtelRezervasyon\ApiConsume\OtelRezervasyon.Entity\bin\Debug\net7.0\OtelRezervasyon.Entity.runtimeconfig.json
+D:\Github\OtelRezervasyon\ApiConsume\OtelRezervasyon.Entity\bin\Debug\net7.0\OtelRezervasyon.Entity.dll
+D:\Github\OtelRezervasyon\ApiConsume\OtelRezervasyon.Entity\bin\Debug\net7.0\OtelRezervasyon.Entity.pdb
+D:\Github\OtelRezervasyon\ApiConsume\OtelRezervasyon.Entity\obj\Debug\net7.0\OtelRezervasyon.Entity.csproj.AssemblyReference.cache
+D:\Github\OtelRezervasyon\ApiConsume\OtelRezervasyon.Entity\obj\Debug\net7.0\OtelRezervasyon.Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\OtelRezervasyon\ApiConsume\OtelRezervasyon.Entity\obj\Debug\net7.0\OtelRezervasyon.Entity.AssemblyInfoInputs.cache
+D:\Github\OtelRezervasyon\ApiConsume\OtelRezervasyon.Entity\obj\Debug\net7.0\OtelRezervasyon.Entity.AssemblyInfo.cs
+D:\Github\OtelRezervasyon\ApiConsume\OtelRezervasyon.Entity\obj\Debug\net7.0\OtelRezervasyon.Entity.csproj.CoreCompileInputs.cache
+D:\Github\OtelRezervasyon\ApiConsume\OtelRezervasyon.Entity\obj\Debug\net7.0\OtelRezervasyon.Entity.dll
+D:\Github\OtelRezervasyon\ApiConsume\OtelRezervasyon.Entity\obj\Debug\net7.0\refint\OtelRezervasyon.Entity.dll
+D:\Github\OtelRezervasyon\ApiConsume\OtelRezervasyon.Entity\obj\Debug\net7.0\OtelRezervasyon.Entity.pdb
+D:\Github\OtelRezervasyon\ApiConsume\OtelRezervasyon.Entity\obj\Debug\net7.0\OtelRezervasyon.Entity.genruntimeconfig.cache
+D:\Github\OtelRezervasyon\ApiConsume\OtelRezervasyon.Entity\obj\Debug\net7.0\ref\OtelRezervasyon.Entity.dll

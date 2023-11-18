@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uDM7tBPwTI3l4mgw3+qwDFtioYfOInTjQLiGh9dRGV0HzRe0Zubcf6Gr/lT/6I8NBXz7scz88933N1H4ql75SQ==",
+  "dgSpecHash": "4eplgXc8OHftl492yLaFL1sSqS+EtPhXham26oR8a0nVmI5apqDEo4WuEr1CGSJuRN4JHpviZW7/sbB1ajTqeA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\OtelRezervasyon\\ApiConsume\\OtelRezervasyon.Data\\OtelRezervasyon.Data.csproj",
+  "projectFilePath": "D:\\Github\\OtelRezervasyon\\ApiConsume\\OtelRezervasyon.Data\\OtelRezervasyon.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ugurc\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\ugurc\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

@@ -12,7 +12,7 @@ namespace OtelRezervasyon.Data.Concrete
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("server=DESKTOP-UQAENJ3\\SQLEXPRESS; initial catalog=OtelRezervasyon; integrated security=true; TrustServerCertificate=True");
+            optionsBuilder.UseSqlServer("server=U¦URCAN; initial catalog=OtelRezervasyon; integrated security=true; TrustServerCertificate=True");
         }
         public DbSet<Room> Rooms { get; set; }
         public DbSet<Service> Services { get; set; }

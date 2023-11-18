@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gmaTpJRHQgM9o2igNdMIUsMnjr22VvItdtrQVW9Y8h49Uw3Zwi+dIG1GWZJJ/hPah+Rx6fNaLYPI6RPC+4y6Rw==",
+  "dgSpecHash": "hnjUYTwmmhKqG2iCAFsWotJ7qT7LnTUu2n98AzVGCBWAmXcadKyy7iujkS2uyB/EsFgY6JO4paFALseLh8TP7A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ugurc\\OneDrive\\Belgeler\\GitHub\\OtelRezervasyon\\ApiConsume\\OtelRezervasyon.Api\\OtelRezervasyon.Api.csproj",
+  "projectFilePath": "D:\\Github\\OtelRezervasyon\\ApiConsume\\OtelRezervasyon.Api\\OtelRezervasyon.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ugurc\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\ugurc\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
